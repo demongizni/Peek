@@ -1,0 +1,11 @@
+{
+    "version": "0.0.1",
+    "notes": "### Peek v0.0.1 — Первая официальная русская версия\n\n- Ребрендинг: проект теперь называется Peek!\n- Полная русификация всех меню, шторки Dynamic Island и настроек (2 175 строк).\n- Встроенный механизм автоматических облачных обновлений от demongizni.\n- База на актуальном ядре 1.5.0 с поддержкой всех современных возможностей.",
+    "pub_date": "2026-11-04T04:41:48Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2t2aDVsb3BGcDVteVJKS2hjc2NPaUR0VmJzVXFud0V6YSs4TmpFOTB5NVBaTWVaaytrNEZLQVZRUUVLU0t3NWVuWWxpdGNoTWZXNDM3THpMcndGeXRKU3EwUDQwV1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzY3MzA4CWZpbGU6UGVla18wLjAuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4wLjEKUnpHV1R3bzlQQVNZa0o4Z3dtQXlKS3k4dGNuSlcvS2hlWXp3U2dUSnZJdU9PYkxUS0hKUUxqY2FOT29VVU1JaVBJc0thOXZOcEZyWitGdlAyYWp3RGc9PQo=",
+            "url": "https://github.com/demongizni/Peek/releases/download/v0.0.1/Peek_0.0.1_x64-setup.exe"
+        }
+    }
+}
